@@ -1,0 +1,13 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.content {
+  align-content: center;
+}
+
+p.end {
+  font-weight: bold;
+  align-content: center;
+}
